@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Maximilian</h1>
+<h1 align="center">Hi there 👋, I'm</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=70F3FF&size=30&center=true&vCenter=true&lines=TEST"></img>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=70F3FF&size=30&center=true&vCenter=true&lines=Maximilian"></img>
 </p>
 
 ## 🔭 I’m currently working on
@@ -19,8 +19,6 @@ I am actively seeking opportunities to collaborate on WordPress shop projects. I
 ## 💬 Ask me about
 
 Feel free to ask me anything about travelling! I've been to many exciting places and experienced many different cultures. Sharing these experiences with others is something I enjoy.
-
-
 
 
 
