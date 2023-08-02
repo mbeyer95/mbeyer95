@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+| Spalte 1 | Spalte 2 |
+| -------- | -------- |
+| Zelle 1  | Zelle 2  |
+
+
 <!--
 **mbeyer95/mbeyer95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +21,6 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mbeyer95&label=Profile%20views&color=0e75b6&style=flat" alt="mbeyer95" /> </p>
 
 ![](https://komarev.com/ghpvc/?username=mbeyer95&color=blue)
 
