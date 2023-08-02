@@ -4,6 +4,9 @@
 | -------- | -------- |
 | Zelle 1  | Zelle 2  |
 
+[Meine E-Mail](mailto:mail@maximilianbeyer.de)
+
+
 
 <!--
 **mbeyer95/mbeyer95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
