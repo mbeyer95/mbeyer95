@@ -1,4 +1,6 @@
-<h1 align="center">Hi there 👋, I'm</h1>
+<h1 align="center">Hi there 👋, I'm <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=70F3FF&size=30&center=true&vCenter=true&lines=Maximilian"></img>
+</p></h1>
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=70F3FF&size=30&center=true&vCenter=true&lines=Maximilian"></img>
