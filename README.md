@@ -1,8 +1,7 @@
-<h1 align="center">Hi there 👋, I'm <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=70F3FF&size=30&center=true&vCenter=true&lines=Maximilian"></img></h1>
-
-<p align="center">
+<h1 align="center">Hi there 👋, I'm <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=70F3FF&size=30&center=true&vCenter=true&lines=Maximilian"></img>
-</p>
+</p></h1>
+
 
 ## 🔭 I’m currently working on
 
