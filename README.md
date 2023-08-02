@@ -1,16 +1,7 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on [**nextcloud**](https://github.com/mbeyer95/nextcloud)
-- 🌱 I’m currently learning **wordpress, bash, aws, terraform**
-- 👯 I’m looking to collaborate on **wordpress shops**
-- 💬 Ask me about **travelling**
-- 📫 How to reach me: [**mail@maximilianbeyer.de**](mailto:mail@maximilianbeyer.de)
-
-
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Maximilian</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=70F3FF&size=30&center=true&vCenter=true&lines=Cloud+Engineer+at+Nextcloud;Always+learning+more+about+Wordpress%2C+Bash%2C+AWS%2C+Terraform;Looking+for+collaboration+on+Wordpress+Shops;Ask+me+anything+about+travelling!"></img>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=70F3FF&size=30&center=true&vCenter=true&lines=TEST"></img>
 </p>
 
 ## 🔭 I’m currently working on
