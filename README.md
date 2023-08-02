@@ -4,7 +4,7 @@
 | -------- | -------- |
 | Zelle 1  | Zelle 2  |
 
-[Meine E-Mail](mailto:mail@maximilianbeyer.de)
+[**Contact me here_**](mailto:mail@maximilianbeyer.de)
 
 
 
